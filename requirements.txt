@@ -1,0 +1,15 @@
+gradio 
+jinja2 
+pydantic
+# huggingface-hub
+fastapi
+starlette
+uvicorn
+# ibm-watsonx-ai
+langchain
+langchain-community
+# langchain-ibm
+langchain-huggingface
+langchain-chroma
+langchain-ollama
+sentence-transformers 
